@@ -1,0 +1,51 @@
+c:\users\administrator\documents\visual studio 2012\Projects\Edit\Edit\bin\Debug\Edit.exe.config
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\Edit\Edit\bin\Debug\Edit.exe
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\Edit\Edit\bin\Debug\Edit.pdb
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\Edit\Edit\obj\Debug\Edit.csprojResolveAssemblyReference.cache
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\Edit\Edit\obj\Debug\Edit.Form1.resources
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\Edit\Edit\obj\Debug\Edit.Properties.Resources.resources
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\Edit\Edit\obj\Debug\Edit.csproj.GenerateResource.Cache
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\Edit\Edit\obj\Debug\Edit.exe
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\Edit\Edit\obj\Debug\Edit.pdb
+D:\CODE\C#\记事本实验\Edit\Edit\bin\Debug\Edit.exe.config
+D:\CODE\C#\记事本实验\Edit\Edit\obj\Debug\Edit.exe
+D:\CODE\C#\记事本实验\Edit\Edit\obj\Debug\Edit.pdb
+D:\CODE\C#\记事本实验\Edit\Edit\bin\Debug\Edit.exe
+D:\CODE\C#\记事本实验\Edit\Edit\bin\Debug\Edit.pdb
+D:\CODE\C#\记事本实验\Edit\Edit\obj\Debug\Edit.csprojResolveAssemblyReference.cache
+D:\CODE\C#\记事本实验\Edit\Edit\obj\Debug\Edit.Form1.resources
+D:\CODE\C#\记事本实验\Edit\Edit\obj\Debug\Edit.Properties.Resources.resources
+D:\CODE\C#\记事本实验\Edit\Edit\obj\Debug\Edit.csproj.GenerateResource.Cache
+D:\CODE\C#\记事本实验\Edit\Edit\obj\Debug\Edit.AboutBox1.resources
+F:\c#\记事本实验\Edit\Edit\bin\Debug\Edit.exe.config
+F:\c#\记事本实验\Edit\Edit\obj\Debug\Edit.exe
+F:\c#\记事本实验\Edit\Edit\obj\Debug\Edit.pdb
+E:\c#\记事本实验\Edit\Edit\bin\Debug\Edit.exe.config
+E:\c#\记事本实验\Edit\Edit\obj\Debug\Edit.exe
+E:\c#\记事本实验\Edit\Edit\obj\Debug\Edit.pdb
+E:\c#\记事本实验\Edit\Edit\bin\Debug\Edit.exe
+E:\c#\记事本实验\Edit\Edit\bin\Debug\Edit.pdb
+E:\c#\记事本实验\Edit\Edit\obj\Debug\Edit.AboutBox1.resources
+E:\c#\记事本实验\Edit\Edit\obj\Debug\Edit.Form1.resources
+E:\c#\记事本实验\Edit\Edit\obj\Debug\Edit.Properties.Resources.resources
+E:\c#\记事本实验\Edit\Edit\obj\Debug\Edit.csproj.GenerateResource.Cache
+G:\c#\记事本实验\Edit\Edit\bin\Debug\Edit.exe.config
+G:\c#\记事本实验\Edit\Edit\obj\Debug\Edit.exe
+G:\c#\记事本实验\Edit\Edit\obj\Debug\Edit.pdb
+G:\c#\记事本实验\Edit\Edit\bin\Debug\Edit.exe
+G:\c#\记事本实验\Edit\Edit\bin\Debug\Edit.pdb
+G:\c#\记事本实验\Edit\Edit\obj\Debug\Edit.AboutBox1.resources
+G:\c#\记事本实验\Edit\Edit\obj\Debug\Edit.Form1.resources
+G:\c#\记事本实验\Edit\Edit\obj\Debug\Edit.Properties.Resources.resources
+G:\c#\记事本实验\Edit\Edit\obj\Debug\Edit.csproj.GenerateResource.Cache
+G:\c#\记事本实验\Edit\Edit\obj\Debug\Edit.csprojResolveAssemblyReference.cache
+D:\CODE\C#\记事本实验\Edit\Edit\obj\Debug\Edit.Search.resources
+D:\CODE\C#\记事本实验\Edit\Edit\obj\Debug\Edit.change.resources
+D:\CODE\C#\记事本实验\Edit\Edit\obj\Debug\Edit.zhuandao.resources
+G:\c#\记事本实验\Edit\Edit\obj\Debug\Edit.change.resources
+G:\c#\记事本实验\Edit\Edit\obj\Debug\Edit.Search.resources
+G:\c#\记事本实验\Edit\Edit\obj\Debug\Edit.zhuandao.resources
+E:\c#\记事本实验\Edit\Edit\obj\Debug\Edit.csprojResolveAssemblyReference.cache
+E:\c#\记事本实验\Edit\Edit\obj\Debug\Edit.change.resources
+E:\c#\记事本实验\Edit\Edit\obj\Debug\Edit.Search.resources
+E:\c#\记事本实验\Edit\Edit\obj\Debug\Edit.zhuandao.resources
