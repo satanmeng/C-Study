@@ -1,0 +1,9 @@
+H:\c#\QQ服务端\QQ服务端\bin\Debug\QQ服务端.exe.config
+H:\c#\QQ服务端\QQ服务端\bin\Debug\QQ服务端.exe
+H:\c#\QQ服务端\QQ服务端\bin\Debug\QQ服务端.pdb
+H:\c#\QQ服务端\QQ服务端\obj\Debug\QQ服务端.csprojResolveAssemblyReference.cache
+H:\c#\QQ服务端\QQ服务端\obj\Debug\QQ服务端.FormServer.resources
+H:\c#\QQ服务端\QQ服务端\obj\Debug\QQ服务端.Properties.Resources.resources
+H:\c#\QQ服务端\QQ服务端\obj\Debug\QQ服务端.csproj.GenerateResource.Cache
+H:\c#\QQ服务端\QQ服务端\obj\Debug\QQ服务端.exe
+H:\c#\QQ服务端\QQ服务端\obj\Debug\QQ服务端.pdb

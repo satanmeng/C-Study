@@ -1,0 +1,16 @@
+D:\Users\sky-line\Documents\Visual Studio 2010\Projects\_CUSTOM_CONTROLS\_CUSTOM_CONTROLS\bin\Debug\_CUSTOM_CONTROLS.dll
+D:\Users\sky-line\Documents\Visual Studio 2010\Projects\_CUSTOM_CONTROLS\_CUSTOM_CONTROLS\bin\Debug\_CUSTOM_CONTROLS.pdb
+D:\Users\sky-line\Documents\Visual Studio 2010\Projects\_CUSTOM_CONTROLS\_CUSTOM_CONTROLS\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\sky-line\Documents\Visual Studio 2010\Projects\_CUSTOM_CONTROLS\_CUSTOM_CONTROLS\obj\Debug\_CUSTOM_CONTROLS.Properties.Resources.resources
+D:\Users\sky-line\Documents\Visual Studio 2010\Projects\_CUSTOM_CONTROLS\_CUSTOM_CONTROLS\obj\Debug\_CUSTOM_CONTROLS.ChatListBox.resources
+D:\Users\sky-line\Documents\Visual Studio 2010\Projects\_CUSTOM_CONTROLS\_CUSTOM_CONTROLS\obj\Debug\ResGen.read.1.tlog
+D:\Users\sky-line\Documents\Visual Studio 2010\Projects\_CUSTOM_CONTROLS\_CUSTOM_CONTROLS\obj\Debug\ResGen.write.1.tlog
+D:\Users\sky-line\Documents\Visual Studio 2010\Projects\_CUSTOM_CONTROLS\_CUSTOM_CONTROLS\obj\Debug\_CUSTOM_CONTROLS.dll
+D:\Users\sky-line\Documents\Visual Studio 2010\Projects\_CUSTOM_CONTROLS\_CUSTOM_CONTROLS\obj\Debug\_CUSTOM_CONTROLS.pdb
+G:\c#\仿QQ聊天系统客户端\_CUSTOM_CONTROLS\bin\Debug\_CUSTOM_CONTROLS.dll
+G:\c#\仿QQ聊天系统客户端\_CUSTOM_CONTROLS\bin\Debug\_CUSTOM_CONTROLS.pdb
+G:\c#\仿QQ聊天系统客户端\_CUSTOM_CONTROLS\obj\Debug\_CUSTOM_CONTROLS.Properties.Resources.resources
+G:\c#\仿QQ聊天系统客户端\_CUSTOM_CONTROLS\obj\Debug\_CUSTOM_CONTROLS.ChatListBox.resources
+G:\c#\仿QQ聊天系统客户端\_CUSTOM_CONTROLS\obj\Debug\_CUSTOM_CONTROLS.csproj.GenerateResource.Cache
+G:\c#\仿QQ聊天系统客户端\_CUSTOM_CONTROLS\obj\Debug\_CUSTOM_CONTROLS.dll
+G:\c#\仿QQ聊天系统客户端\_CUSTOM_CONTROLS\obj\Debug\_CUSTOM_CONTROLS.pdb
